@@ -9,3 +9,5 @@ Chnistolyonnais/Chnistolyonnais is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 [Bonjour, je ne connais pas la programmation, je veux apprendre de vous 
+[
+I want someone to teach me programming, please
